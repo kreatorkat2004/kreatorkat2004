@@ -9,7 +9,7 @@ I am a third-year Computer Science and Statistics student at Rice University, pa
 Check out my [coding portfolio](https://aaron-wu.com)!
 
 ## 🎓 Education
-- **![Rice University](https://img.shields.io/badge/Rice%20University-blue?style=flat-square&logo=graduation-cap&logoColor=white)  ** (2022 - 2026) 
+- ![Rice University](https://img.shields.io/badge/Rice%20University-blue?style=flat-square&logo=graduation-cap&logoColor=white)  (2022 - 2026) 
   Bachelor of Arts in Computer Science and Statistics (GPA: 3.8/4.0)  
   **Coursework**: Data Structures and Algorithms, Reasoning About Algorithms, Matrices in Data Science, R for Data Science, Linear Regression, Computer Systems, Concurrent Program Design, Web Development  
   **Certificates**: Google Data Analytics, Object Oriented Programming in Java, Bloomberg Market Concepts
