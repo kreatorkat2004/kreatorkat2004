@@ -4,14 +4,14 @@
 I am a fourth-year Computer Science and Statistics student at Rice University, passionate about machine learning, web development, and creating innovative solutions.
 
 ## 🚀 What I'm Up To
-🤖 Exploring deep learning with TensorFlow and PyTorch  
-💻 Developing web applications with R, Shiny, and JavaScript  
+🤖 Currently working at MD Anderson as a student researcher 
+💻 Incoming Software Engineer at Roblox
 Check out my [coding portfolio](https://aaron-wu.com)!
 
 ## 🎓 Education
 - ![Rice University](https://img.shields.io/badge/Rice%20University-blue?style=flat-square&logo=graduation-cap&logoColor=white)  (2022 - 2026) 
   Bachelor of Arts in Computer Science and Statistics (GPA: 3.8/4.0)  
-  **Coursework**: Data Structures and Algorithms, Reasoning About Algorithms, Matrices in Data Science, R for Data Science, Linear Regression, Computer Systems, Concurrent Program Design, Web Development  
+  **Coursework**: Data Structures and Algorithms, Computer Systems, Concurrent Program Design, Web Development, Compiler Construction, Optimization, Practical Machine Learning, Linear Regression, Financial Modeling, Time Series, Probability 
   **Certificates**: Google Data Analytics, Object Oriented Programming in Java, Bloomberg Market Concepts
 
 ## 🌐 Connect with me:
