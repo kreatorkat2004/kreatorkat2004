@@ -4,8 +4,8 @@
 I am a fourth-year Computer Science and Statistics student at Rice University, passionate about machine learning, web development, and creating innovative solutions.
 
 ## 🚀 What I'm Up To
-🤖 Currently working at MD Anderson as a student researcher 
-💻 Incoming Software Engineer at Roblox
+🤖 **Student Researcher at MDAnderson**
+💻 **Incoming Software Engineer at Roblox**
 Check out my [coding portfolio](https://aaron-wu.com)!
 
 ## 🎓 Education
