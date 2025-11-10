@@ -1,7 +1,7 @@
 # Hi 👋 I'm Aaron Wu
 
 ## 💫 About Me:
-I am a third-year Computer Science and Statistics student at Rice University, passionate about machine learning, web development, and creating innovative solutions.
+I am a fourth-year Computer Science and Statistics student at Rice University, passionate about machine learning, web development, and creating innovative solutions.
 
 ## 🚀 What I'm Up To
 🤖 Exploring deep learning with TensorFlow and PyTorch  
